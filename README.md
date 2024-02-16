@@ -1,0 +1,1 @@
+Spring boot PostgreSQL connection example. Created a Student table with student id, name, email, date of birth and age as attributes. SQL operations on PostgreSQL are peformed using JPA( Java Persistence API). Connecting of PostgreSQL is done through properties file.
